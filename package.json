@@ -1,0 +1,14 @@
+{
+  "name": "irc-test",
+  "version": "1.0.0",
+  "description": "A test suite for testing the node-irc client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "Justin Gallardo <justin.gallardo@gmail.com>",
+  "license": "MIT"
+}
